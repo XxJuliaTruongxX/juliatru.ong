@@ -4,7 +4,7 @@ const Julia = () => {
     <div>
       <h1 style = {{
         textAlign: "center",
-        backgroundColor: "blue",
+        backgroundColor: "pink",
         margin: "33px",
         padding: "3px",
       }}>poopypp</h1>
